@@ -15,4 +15,4 @@ Backend Code for an ecommerce-website which handles
 * Anyone who wants build any e-commerce website they can study my backend code and can integrate this with their frontend.
 
 # Installation
-  npm install
+  ``` npm install ```
